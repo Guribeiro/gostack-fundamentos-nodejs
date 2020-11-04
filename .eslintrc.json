@@ -28,7 +28,8 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "no-unused-expressions": [{"allowShortCircuit": false}, {"allowTernary": false}]
   },
   "settings": {
     "import/resolver": {
